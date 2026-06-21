@@ -1,5 +1,5 @@
 # INFORMATION:
-- 👋 Witaj jestem @Qainz
+- 👋 Witaj jestem @Quejti
 - 👀 Interesuję się robieniem paczek pod serwer minecraft
 - 🌱 Mam 20 lat
 - 💞️ status: wolny
